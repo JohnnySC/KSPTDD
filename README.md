@@ -1,7 +1,8 @@
 # KSPTDD
 Generate code depending on the unit test
 
-Генерируем код с помощью Kotlin Symbol Processing из юнит тестов (https://www.youtube.com/watch?v=Kptt1HtYdtk)
+Генерируем код с помощью Kotlin Symbol Processing из юнит тестов (процесс написания https://www.youtube.com/watch?v=Kptt1HtYdtk)
+Демонтрация: паблик видео на ютубе https://youtu.be/d7ESIcD5hSk
 
 Какую решаем задачу?
 
